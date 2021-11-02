@@ -1,4 +1,4 @@
- ### Hi there :mage_man:
+ ### Hey there! I am using GitHub :mage_man:
  
  <hr>
  
