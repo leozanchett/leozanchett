@@ -1,4 +1,5 @@
- ### Hey there! I am using GitHub :mage_man:
+### Hey there! I am using GitHub
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Mouse%20Face.png" alt="Mouse Face" width="100" height="100" />
    
  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure&perline=20)](https://skillicons.dev)
  
