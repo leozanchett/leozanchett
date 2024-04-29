@@ -6,4 +6,4 @@
  
   <hr>
   
- <img src="https://vandal-us.s3.amazonaws.com/spree/products/65108/product/open-uri20180820-270-evot6g.jpg">
+ [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
