@@ -37,8 +37,12 @@ class Leonardo(Agent):
 ### Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=leozanchett&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozanchett&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leozanchett&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leozanchett&theme=github_dark" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leozanchett&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
