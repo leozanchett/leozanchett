@@ -1,16 +1,50 @@
-### Hey there! I am using GitHub
- <!--<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Mouse%20Face.png" alt="Mouse Face" width="100" height="100" />!-->
-   
- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure&perline=20)](https://skillicons.dev)
- 
- [![My Skills](https://skillicons.dev/icons?i=py,r,java,c,dart,flutter,go,js,ts&perline=20)](https://skillicons.dev)
- 
- [![My Skills](https://skillicons.dev/icons?i=flask,pytorch,tensorflow,sklearn,regex,spring,selenium&perline=20)](https://skillicons.dev)
-  
- [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postgres,mongodb,redis,sqlite&perline=20)](https://skillicons.dev)
- 
- [![My Skills](https://skillicons.dev/icons?i=linux,mint,ubuntu,windows&perline=20)](https://skillicons.dev)
- 
- [![My Skills](https://skillicons.dev/icons?i=anaconda,vscode,eclipse,pycharm,replit&perline=20)](https://skillicons.dev)
+<div align="center">
 
- [![My Skills](https://skillicons.dev/icons?i=jenkins,docker,kubernetes,git,github,gitlab,nginx,terraform&perline=20)](https://skillicons.dev)
+# Leonardo Zanchett
+
+**Building intelligent agents that learn, adapt and evolve.**
+
+[![GitHub](https://img.shields.io/badge/-leozanchett-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/leozanchett)
+[![Profile views](https://komarev.com/ghpvc/?username=leozanchett&style=flat-square&color=171717&label=views)](#)
+
+</div>
+
+---
+
+```python
+class Leonardo(Agent):
+    role  = "AI Engineer"
+    focus = ["Multi-Agent Systems", "Evolutionary Computation"]
+
+    def evolve(self, problem):
+        population = self.spawn()
+        while not self.solved(problem):
+            population = self.mutate(population)
+            population = self.select(population)
+        return population.best
+```
+
+### Currently exploring
+
+- **AI Agents** — orchestration, tool use, planning loops, long-term memory
+- **Evolutionary Algorithms** — genetic algorithms, neuroevolution, NEAT
+- **Emergence** — multi-agent simulations and swarm intelligence
+
+### Toolbox
+
+[![Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,docker,postgres,redis,linux,git&perline=10)](https://skillicons.dev)
+
+### Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=leozanchett&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozanchett&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
+</p>
+
+---
+
+<div align="center">
+
+*"Intelligence is not designed — it emerges."*
+
+</div>
