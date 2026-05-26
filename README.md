@@ -1,6 +1,6 @@
 <div align="center">
 
-# Leonardo Zanchett
+# Leonardo Zanchet
 
 **Building intelligent agents that learn, adapt and evolve.**
 
@@ -13,6 +13,7 @@
 
 ```python
 class Leonardo(Agent):
+    name  = "Leonardo Zanchet"
     role  = "AI Engineer"
     focus = ["Multi-Agent Systems", "Evolutionary Computation"]
 
@@ -37,8 +38,8 @@ class Leonardo(Agent):
 ### Stats
 
 <p>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leozanchett&theme=github_dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leozanchett&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leozanchett&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leozanchett&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
 </p>
 
 <p>
